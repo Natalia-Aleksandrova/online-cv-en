@@ -20,7 +20,7 @@ sidebar:
     linkedin: natalia-aleksandrova-cxexpert
     xing: 
     github: 
-    telegram: nsunny # add your nickname without '@' sign
+    telegram: nsunny1 # add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter: 
@@ -59,7 +59,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Dynamic, performance-driven professional with 15+ years of proven experience in project management, planning and administrative support of medical services and clients service in other spheres. Enthusiastic team player, applying holistic approach in business process modelling. Self-motivated person with “can-do” attitude. Strong interpersonal, motivational, communication and analytical skills. 
+      Dynamic, performance-driven professional with 15+ years of proven experience in project management, operations and clients service. Enthusiastic team player, applying holistic approach in business process modelling. Self-motivated person with “can-do” attitude. Strong interpersonal, motivational, communication and analytical skills. 
       Passionate for service excellence and people, open for challenges. Strong ethic, integrity and responsibility attitude.
 
 education:
@@ -82,7 +82,7 @@ experiences:
         time: 09.2021 - Present
         company: DNKOM, Lab diagnostics chain, Moscow
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          Clients service project manager in Lab diagnostics chain, represented by 100+ offices and 317 corporate clients throughout Russia and ex-CIS countries and 317 corporate clients.
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
@@ -91,8 +91,8 @@ experiences:
           error sit voluptatem accusantium doloremque laudantium, totam rem
           aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
           architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+            - Started internal 
+            - Launched NPS surveys first for one type of services, then for the whole B2C clientelle.  
       - role: Senior Manager, part time
         time: 01.2011 - 04.2022
         company: PricewaterhouseCoopers Advisory (PwC), Healthcare dpt, Moscow
@@ -104,17 +104,23 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Сlients service expert, Consultant, Trainer
+        time: 09.2020 – 09.2021
+        company: Independent expert
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Strategic partner for teams and leaders helping to enhance their companies' clients service model.
+          - Business process modelling and analytics.
+          - Moderating and facilitating trust communication workshops.
+          - Training courses on clients service and effective communication.
+        - role: Сlients service expert, Consultant, Trainer
+        time: 09.2020 – 09.2021
+        company: Ilyinsky Hospital, Moscow, https://ihospital.ru/en/ 
+        details: |
+          Worked as a department manager responsible for patient coordination, technical tasks writing, business process modelling, personnel hiring, management and training, strategic planning, risk management, budget planning, and data analysis.
+            - Patient coordination and risk management
+            - Technical task writing and business process modeling
+            - Department management and budget planning
+            
 projects:
     title: Projects
     intro: >
